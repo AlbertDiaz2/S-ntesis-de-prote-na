@@ -1,0 +1,19 @@
+El archivo Cliente.py debe ser llamado desde la consola usando el siguiente patron:
+
+python3 Cliente.py aminoacidos.txt
+
+python3 Cliente.py cadenas_simples.txt
+
+python3 Cliente.py cadenas_complejas.txt
+
+
+
+Las secuencias de adn doble formadas con las cadenas de adn simple se guardan en 'AdnDoble.txt'.
+
+Las cadenas de adn simple traducidas en arn se guardan en 'Arnt.txt'.
+
+Los codones y su frecuencia se muestran por pantalla.
+
+Las proteinas codificadas se muestras en pantalla.
+
+El Adn basura se guarda en un txt de nombre 'AdnBasura.txt'
